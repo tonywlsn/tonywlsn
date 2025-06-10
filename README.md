@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @tonywlsn
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning machine learning, airflow, kafka
-- 💞️ I’m looking to collaborate on software development - ios, augmented reality, oculus
-- 📫 How to reach me antonywilson@gmail.com
+# Antony Wilson - Software Development Consultant
 
-<!---
-tonywlsn/tonywlsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository contains the source code for my professional website built with GitHub Pages.
+
+Visit the live site at: https://tonywlsn.github.io/tonywlsn_github/
