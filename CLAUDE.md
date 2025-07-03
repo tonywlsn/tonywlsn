@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a static personal website for Antony Wilson, a software development consultant. The site is built with vanilla HTML, CSS, and JavaScript and is hosted on GitHub Pages at https://tonywlsn.github.io/tonywlsn.
+This is a static business website for The Easy Place, LLC, a software development consultancy. The site is built with vanilla HTML, CSS, and JavaScript and is hosted on GitHub Pages at https://tonywlsn.github.io/tonywlsn.
 
 ## Architecture
 
